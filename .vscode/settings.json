@@ -1,0 +1,16 @@
+{
+    "go.alternateTools": {},
+    "files.associations": {
+        ".vuerc": "json"
+    },
+    "emmet.preferences": {},
+    "emmet.includeLanguages": {
+        "golang": "tmpl"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.associations": {
+        "*html": "html",
+        "*njk": "html",
+        "*.tmpl": "html"
+    },
+}
